@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Nitish Kumar</h1>
 
 <h3 align="center">Backend Engineer | AI Full Stack Developer | AI Engineer</h3>
@@ -86,3 +88,7 @@ An open-source AI-powered Text-to-Speech and Voice Cloning platform built for te
 Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudflare R2 • Clerk • Polar • Chatterbox TTS • Sentry • Tailwind CSS
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
